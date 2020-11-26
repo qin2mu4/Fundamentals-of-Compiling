@@ -4,6 +4,7 @@
 using std::cout;
 using std::endl;
 TreeNode *root=nullptr;
+
 int main ()
 {
     yyparse();
